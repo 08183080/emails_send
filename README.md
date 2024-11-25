@@ -7,6 +7,7 @@
 
 # how-to-use
 1.电脑环境变量设置网易邮箱开发者授权码：'wangyi_emai_auth'
+
 2.发送的邮件列表用 emails.txt 存储
 
 
